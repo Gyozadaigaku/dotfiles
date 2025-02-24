@@ -1,0 +1,41 @@
+background-opacity = 0.9
+theme = Blue Matrix
+background = #101116
+foreground = #00a2ff
+selection-background = #c1deff
+selection-foreground = #000000
+cursor-color = #76ff9f
+cursor-text = #ffffff
+palette = 0=#101116
+palette = 1=#ff5680
+palette = 2=#00ff9c
+palette = 3=#fffc58
+palette = 4=#00b0ff
+palette = 5=#d57bff
+palette = 6=#76c1ff
+palette = 7=#c7c7c7
+palette = 8=#686868
+palette = 9=#ff6e67
+palette = 10=#5ffa68
+palette = 11=#fffc67
+palette = 12=#6871ff
+palette = 13=#d682ec
+palette = 14=#60fdff
+palette = 15=#ffffff
+
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+
+cursor-opacity = 0.7
+cursor-style = block
+cursor-style-blink = false
+
+unfocused-split-opacity = 0.825
+
+# fullscreen = true
+
+window-inherit-working-directory = true
+
+resize-overlay = never
+
+initial-window = false
