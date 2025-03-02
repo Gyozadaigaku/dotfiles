@@ -1,4 +1,4 @@
-background-opacity = 0.9
+background-opacity = 0.95
 theme = Blue Matrix
 background = #101116
 foreground = #00a2ff
@@ -30,6 +30,7 @@ cursor-opacity = 0.7
 cursor-style = block
 cursor-style-blink = false
 
+unfocused-split-fill = #62656F
 unfocused-split-opacity = 0.825
 
 # fullscreen = true
